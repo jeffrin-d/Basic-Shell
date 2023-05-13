@@ -1,5 +1,5 @@
 Some notes:
-    If you wish to run this file, you might need to do the following on your Linux/Ubuntu command line:
+    If you wish to run this file, you might need to do the following on your Linux/Ubuntu command line: <br /><br />
         1. `sudo apt update`
             This checks for any updates in the existing list of packages <br />
         2. `sudo apt install build-essential`
